@@ -1,0 +1,50 @@
+{
+    "previous": "Some URL for previous page",
+    "next": "Some URL for next page",
+    "results": [
+
+        {
+            "first_name": "Suprem",
+            "last_name": "Nandal",
+            "email": "suprem.nandal@gmail.com",
+            "phone": "+959977327867",
+            "verified": true
+        },
+        {
+            "first_name": "Soe",
+            "last_name": "Moe",
+            "email": "soemoe@gmail.com",
+            "phone": "+959977324967",
+            "verified": false
+        },
+        {
+            "first_name": "Su",
+            "last_name": "Myat",
+            "email": "sumyat@gmail.com",
+            "phone": "+959777324967",
+            "verified": true
+        },
+        {
+            "first_name": "Myint",
+            "last_name": "Myat",
+            "email": "myintmyat@gmail.com",
+            "phone": "+959977327305",
+            "verified": false
+        },
+        {
+            "first_name": "Lwin",
+            "last_name": "Moe",
+            "email": "lwinmoe@gmail.com",
+            "phone": "+959772324967",
+            "verified": true
+        },
+        {
+            "first_name": "Khin",
+            "last_name": "Moe",
+            "email": "khinmoe@gmail.com",
+            "phone": "+959265094170",
+            "verified": false
+        }
+
+    ]
+}
